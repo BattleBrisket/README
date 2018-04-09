@@ -1,9 +1,27 @@
 # My leadership readme/operating manual
 
+This was pointed out to me from the original author, who's work is available
+at https://github.com/KatieLo/README and inspired me to fork this. I thought
+it was a brilliant idea and decided to create my own README.
 
 
-## My Leadership Philosophy 
+## My Leadership Philosophy
 
+I wholeheartedly believe in servant leadership. My favorite leadership quote
+is from Ralph Nader, who said "The purpose of a leader is not to make better
+followers. The purpose of a leader is to make better leaders". I take
+inspiration from Dee Hock, John Boyd, etc.
+
+I believe that as an engineering manager, I can apply the same principles to
+leadership that I did to engineering which means I study, I experiment, I take
+notes, I fail, I learn and I move forward. I study every bit as hard as I did
+when learning new languages or frameworks.
+
+When I was just a wee young lad, I often said to myself "Man, I want to be the
+boss someday. They get to sit around with their feet up and tell everyone else
+what to do.". Now that I'm no longer a wee young lad, I realize how stupid that
+statement was and realize that I work far harder as a manager than I ever did
+as a line engineer or worker. Fortunately, I like to work hard.
 
 ## My answers to [first 1:1 questions](http://larahogan.me/blog/first-one-on-one-questions/ "What to ask in the first 1:1")
  
