@@ -28,15 +28,16 @@ as a line engineer or worker. Fortunately, I like to work hard.
 
 What makes you grumpy?
 
-- Mostly being bored. I tend to grumble a lot when I'm super busy, but that's
-usually a sign that I'm happy. If I'm bored, I'm going to start poking around
+- Mostly being bored. I tend to grumble a lot when I'm busy, but that's usually
+a sign that I'm doing fine. If I'm bored, I'm going to start poking around
 in places where I probably shouldn't be and trying to inflict help on people
-that don't want it.
+that don't want it. However, there's a limit. If I do get *too* busy I become
+frazzled, tired and then very grumpy.
 
 How will I know when you’re grumpy?
 
 - Contrary to appearances, when I appear grumpy I'm probably not. If I'm quiet
-and not grousing about something I'm probably pissed off.
+I'm probably pissed off.
 
 
 How can I help you when you’re grumpy?
