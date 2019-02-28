@@ -2,13 +2,14 @@
 
 ## My Leadership Philosophy
 
-I believe people deliver their best work when empowered with the *freedom*
-and *authority* to get the job done. I've learned that most people aren't even
+I believe people deliver their best work when empowered with the **freedom**
+and **authority** to get the job done. I've learned that most people aren't even
 fully aware of their own potential, because the company structures around them
-stifle potential output.
+stifle potential output. I consequently look to maximize the area that my team
+has to move around by minimizing restrictions placed on them.
 
-The fastest way for me to go looking for a policy sledgehammer is to tell me
-"We don't do things like that around here."
+Some of the greatest ideas follow the comment, "We've never done things like
+that around here."
 
 ## My answers to [first 1:1 questions](http://larahogan.me/blog/first-one-on-one-questions/ "What to ask in the first 1:1")
 
@@ -100,28 +101,28 @@ other crazy, deliciously awful concoction.
 
 ## My expectations of folks who report to me
 
-- *Be honest, in all ways.* If we cannot trust each other, we have nothing.
+- **Be honest, in all ways** - If we cannot trust each other, we have nothing.
 Everything below is an extension of trust.
-- *Own your work.* I take a very hands-off approach to managing your daily
+- **Own your work** - I take a very hands-off approach to managing your daily
 output -- you're a competent professional, and don't need a babysitter -- but
 with great power comes great responsibility.
-- *Look for improvements.* Even if you don't execute on them, identifying areas
-that we are coming up short and then offering ways to make it better is
+- **Look for improvements** - Even if you don't execute on them, identifying
+areas that we are coming up short and then offering ways to make it better is
 literally the _only_ way any company improves. This includes feedback on my
 management ability.
-- *Be quick to say "I don't know."* Admitting ignorance on a subject earns a
+- **Be quick to say "I don't know."** - Admitting ignorance on a subject earns a
 lot of points in my book. We never stop learning, and no one can know it all.
 Talking through an area of weakness gives us all a chance to grow and improve.
-- *Tell me when/how I can do better.* I am far from perfect, and rely on your
-feedback to improve. Perhaps contrary to usual instincts, I freely give away
-brownie points whenever anyone finds me lacking, and then finds the guts to tell
-me about it.
+- **Tell me when/how I can do better** - I am *far* from perfect, and rely on
+your feedback to improve. Perhaps contrary to usual instincts, I freely give
+away brownie points whenever anyone finds me lacking, and then finds the guts to
+tell me about it.
 
 
 ## What you can expect of me as your manager
 
-TL;DR - My goal is to support you to the fullest extent you desire and require,
-then get the hell out of your way.
+**TL;DR** - My goal is to support you to the fullest extent you desire and
+require, then get the hell out of your way.
 
 It's pithy, but there's a fair bit at play in there. I'm always available
 any time you have a problem or question. Never hesitate to come talk to me, we
