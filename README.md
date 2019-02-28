@@ -9,7 +9,7 @@ stifle potential output. I consequently look to maximize the area that my team
 has to move around by minimizing restrictions placed on them.
 
 Some of the greatest ideas follow the comment, "We've never done things like
-that around here."
+that around here..."
 
 ## My answers to [first 1:1 questions](http://larahogan.me/blog/first-one-on-one-questions/ "What to ask in the first 1:1")
 
