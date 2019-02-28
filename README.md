@@ -1,179 +1,134 @@
 # My leadership readme/operating manual
 
-This was pointed out to me from the original author, who's work is available
-at https://github.com/KatieLo/README and inspired me to fork this. I thought
-it was a brilliant idea and decided to create my own README.
-
-
 ## My Leadership Philosophy
 
-I wholeheartedly believe in servant leadership. My favorite leadership quote
-is from Ralph Nader, who said "The purpose of a leader is not to make better
-followers. The purpose of a leader is to make better leaders". I take
-inspiration from Dee Hock, John Boyd, etc.
+I believe people deliver their best work when empowered with the *freedom*
+and *authority* to get the job done. I've learned that most people aren't even
+fully aware of their own potential, because the company structures around them
+stifle potential output.
 
-I believe that as an engineering manager, I can apply the same principles to
-leadership that I did to engineering which means I study, I experiment, I take
-notes, I fail, I learn and I move forward. I study every bit as hard as I did
-when learning new languages or frameworks.
-
-When I was just a wee young lad, I often said to myself "Man, I want to be the
-boss someday. They get to sit around with their feet up and tell everyone else
-what to do.". Now that I'm no longer a wee young lad, I realize how stupid that
-statement was and realize that I work far harder as a manager than I ever did
-as a line engineer or worker. Fortunately, I like to work hard.
+The fastest way for me to go looking for a policy sledgehammer is to tell me
+"We don't do things like that around here."
 
 ## My answers to [first 1:1 questions](http://larahogan.me/blog/first-one-on-one-questions/ "What to ask in the first 1:1")
- 
-
-What makes you grumpy?
-
-- Mostly being bored. I tend to grumble a lot when I'm busy, but that's usually
-a sign that I'm doing fine. If I'm bored, I'm going to start poking around
-in places where I probably shouldn't be and trying to inflict help on people
-that don't want it. However, there's a limit. If I do get *too* busy I become
-frazzled, tired and then very grumpy.
-
-How will I know when you’re grumpy?
-
-- Contrary to appearances, when I appear grumpy I'm probably not. If I'm quiet
-I'm probably pissed off.
 
 
-How can I help you when you’re grumpy?
+#### What makes you grumpy?
 
-- First, recognize it. Then pull me aside privately and ask whether I am or not
-and don't just assume. I will always be honest. If I am, we'll talk about why
-I am grumpy and what we can do together to fix it.
+Identifying the solution to a problem and not being permitted to go
+fix it (assume it's a worthwhile endeavor, and/or I don't have something
+better to do with my time). These sorts of problems are usually a symptom of
+crusty, outdated policy: what started out as a useful guideline to avoid a known
+pitfall has become an obstruction over time.
 
+Conversely, fixing these issues makes me feel like I'm contributing, moving the
+team/product/company forward.
 
-How do you like feedback - slack, email, in person, etc?
+#### How will I know when you’re grumpy?
 
-- I prefer it in person or over direct messaging like slack, etc.
+I'll usually say so. My wife tells me I wear it on my sleeve.
 
-How do you like feedback - routine like in 1:1s, or as-it-happens?
+#### How can I help you when you’re grumpy?
 
-- All of the above? I really like feedback in all cases and at all times, I
-hate having to guess where I stand with you. If you're upset, tell me early
-and give me a chance to fix it. I also really appreciate regular end of 1:1
-comments such as "this is how I think you're doing right now and this is why"
+Tell me you see it, ask what's up, and then just help me talk through it. By
+that time, the problem has been rolling around in my head, building up. I tend
+to assume the worst, and presenting the issue to another person usually brings
+me back to equilibrium.
 
+#### How do you like feedback - slack, email, in person, etc?
 
-How do you prefer to receive recognition? (public or private)
+In person, video chat, phone, in that order. Human interaction loses so much
+nuance over email and chat, which is extremely important when providing
+constructive criticism.
 
-- Mostly private, but very very infrequently public acknowledgement. In general
-being praised in public embarasses me, however the occasional "Hey Gary, you
-killed it on so and so, thanks for the hard work" in public is nice as long
-as you don't make a big huge deal out of it.
+#### How do you like feedback - routine like in 1:1s, or as-it-happens?
 
+As it happens. The closer to the problem, the better I can scope the problem to
+its source.
 
-What makes 1:1s the most valuable for you?
+#### How do you prefer to receive recognition? (public or private)
 
-- open and honest feedback, both ways. Understanding that my career is a
-journey and helping me to work through that. I don't feel that 1:1s should be
-used to go over all the individual tasks I'm dealing with day to day and to
-give you status updates. I instead want to discuss the challenges I'm facing
-along with the opportunities you have seen for me.
+Private is generally sufficient, but recognition of suitable "weight" should be
+public. Occasionally letting everyone when you've accomplished something allows
+the team to celebrate with you, spreading the good vibes around.
 
+I have the same mentality when handing out recognition to my team.
 
-What are your goals for this year? And for the next 3 months?
+#### What makes 1:1s the most valuable for you?
 
-- For the year? To continuously grow as a person. I feel that the company I
-am working at should be better with me there and if they are not better with me
-onboard I probably shouldn't be there. My goals are to constantly make my team,
-my coworkers and my company more effective and a better place each and every
-day. For the next 3 months? See previous answer.
+Building the relationship, which in turn strengthens the line of communication.
 
-What do you need from your manager?
+#### What are your goals for this year? And for the next 3 months?
 
-- Open communication and honesty at all times. If you are dealing with a problem
+I've joined a team of true experts in the field, and I feel like I have a lot
+to learn! I need to bulk up on relevant technicals, to ensure I am representing
+the company to the best of my ability, and increasing our overall velocity. If
+you're not growing, you're dying!
+
+Ditto the next 3 months, plus refreshing my consulting chops. Been a corpoate
+guy for too long!
+
+#### What do you need from your manager?
+
+Open communication and honesty at all times. If you are dealing with a problem
 and I can be of help, let me know. If I'm the problem, let me know. If I'm not
 the problem but I can have an impact on it, let me now. I should never be
 surprised about where I stand with you, my team or my company.
 
-From your team?
+[Stole this verbatim from [Gary Foster](https://github.com/gfoster/README/blob/master/README.md),
+because I couldn't see a way to improve upon it.]
 
-- Willingness to be honest and vulnerable with each other. I need to be on a
-team that leans on each other, takes turns shining bright, shares the spotlight
-and is constantly working to improve themselves both personally and as a group.
+#### From your team?
 
-From your peers? (outside the team)
+Zero hesitation come to me with a problem or question. I can't help you be
+awesome if I don't know when something's up.
 
-- Honesty. Without honesty, there is no trust. Without trust, the workplace
-becomes a miserable place to spend your time.
+Also an equal lack of hesitation to support your teammates. Offer to help,
+poke them when you think there's a problem, and share your war-torn wisdom.
 
-What’s your favourite baked good?
+#### From your peers? (outside the team)
 
-- Pies (especially a properly done sour cherry pie, a peach pie or my wife's
-raisin pie)
+Willingness to share your knowledge and experience. Our team has a very diverse
+background, and none of us knows it all. Sharing your wisdom makes the
+individual and the company better for it.
+
+#### What’s your favourite baked good?
+
+Donuts. Preferably with sprinkles, filled with creme, covered in icing, or any
+other crazy, deliciously awful concoction.
+
 
 ## My expectations of folks who report to me
 
-- Be honest with me at all times. Trust that I have your back and that I will
-do my best to help you grow. Don't ever let me be surprised, don't ever lie to
-me and tell me something just because you think that's what I want to hear.
+- *Be honest, in all ways.* If we cannot trust each other, we have nothing.
+Everything below is an extension of trust.
+- *Own your work.* I take a very hands-off approach to managing your daily
+output -- you're a competent professional, and don't need a babysitter -- but
+with great power comes great responsibility.
+- *Look for improvements.* Even if you don't execute on them, identifying areas
+that we are coming up short and then offering ways to make it better is
+literally the _only_ way any company improves. This includes feedback on my
+management ability.
+- *Be quick to say "I don't know."* Admitting ignorance on a subject earns a
+lot of points in my book. We never stop learning, and no one can know it all.
+Talking through an area of weakness gives us all a chance to grow and improve.
+- *Tell me when/how I can do better.* I am far from perfect, and rely on your
+feedback to improve. Perhaps contrary to usual instincts, I freely give away
+brownie points whenever anyone finds me lacking, and then finds the guts to tell
+me about it.
 
-- Do your best. Your best doesn't have to be perfect, but I expect 100% from
-you at all times. If that 100% still messes something up, we'll fix it
-together.
-
-- I encourage you to bring me problems you are encountering. One of my more
-important jobs is to try and fix those things. However, please try to come up
-with ideas (you don't have to implement them, that may be my responsibility). If
-you can't come up with any ideas, at least come up with what sort of outcome
-you'd prefer to see. Don't fall into the victim trap. Of course, you may not
-HAVE any solutions or recommended outcomes, but if you've thought through it
-and hit a brick wall don't feel like you have to have an answer. Let me know
-that you've got a problem, you're stuck and you have no idea how to fix it and
-let me help you figure it out.
-
-- If you don't know how to do something ask for help. Ask me, ask someone else
-on the team, your lead if you have one, a trusted peer, a coworker. Don't just
-wing it. Nobody knows everything.
-
-- Don't be a hero. This is a job and heroics should not be needed. If you are
-the type to seek heroics, maybe we need to have a long discussion. Ultimately,
-if you are always a hero you risk denying someone else on the team the chance
-to grow and learn something new.
 
 ## What you can expect of me as your manager
 
-- I will always be honest with you. Sometimes you may like what I say, other
-times you may not. I will not lie to you ever, though.
+TL;DR - My goal is to support you to the fullest extent you desire and require,
+then get the hell out of your way.
 
-- You can always expect me to be open, approachable and willing to listen to
-anything you have to say. I will not dismiss you out of hand and I will treat
-each thing you bring to me as an opportunity. I may argue about it with you
-because I will always be an engineer at heart and I will always be looking
-for the edge cases. That doesn't mean I don't like your idea, it means that I
-want to make sure you truly have thought it through. If you have a good idea
-speak up, but be prepared to take ownership when I say "That's a great idea,
-when are you going to deliver it?"
+It's pithy, but there's a fair bit at play in there. I'm always available
+any time you have a problem or question. Never hesitate to come talk to me, we
+will work through it. I'll grant you the same courtesy in return if I see a
+problem: you'll know immediately, and have my unwavering support in fixing it.
 
-- Servant leadership is something I strive for every day. I will not ask you to
-do something that I either have never done myself or would not be willing to do
-myself. I may ask you to do a lot of things, but trust that I am not sitting
-around with my feet up on my desk relaxing while you do it. I will always be
-working to make your job better, to find opportunities for you to excel and to
-make the team look good.
-
-- Transparency is critical. If you ever want to know what I'm doing, how I am
-spending my time or what I'm trying to accomplish I expect you to ask me and I
-will gladly share that information to the best of my ability. You should never
-have to think "what the hell does my manager even do all day?"
-
-- I will not blamestorm. If the team does something good, I will make sure they
-get the credit. If the team does something wrong, I will shoulder the blame.
-That's just the way a good leader works, in my opinion, and that's not open for
-negotiation. If you screw something up, I'll take as much of the heat as I can
-from above. However, be aware that you and I will have a potentially painful
-series of *private* discussions about it while we figure out how to fix the
-problem together.
-
-- Things that you and I discuss, especially in our 1:1's, are confidential. I
-will never use them as a means of leverage, nor will I gossip or share that
-information unless it's required (for instance an HR issue). If I feel that
-you've told me something that I think someone else needs to know, you and I
-will discuss it and I will only share it with your approval. I may, however,
-take immediate action on something you tell me if required or appropriate
-(again, see HR issue).
+When you're cruising along, my interference is only going to hinder your ability
+to deliver awesome results. You're a competent, capable human, and don't need
+anyone watching over your shoulder. I'd much rather sit on the sidelines, cheer
+you on, and celebrate your victories.
