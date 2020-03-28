@@ -57,7 +57,7 @@ I have the same mentality when handing out recognition to my team.
 
 #### What makes 1:1s the most valuable for you?
 
-Building the relationship, which in turn strengthens the line of communication.
+Building the relationship, which in turn improves communication effectiveness.
 
 #### What are your goals for this year? And for the next 3 months?
 
@@ -66,14 +66,14 @@ to learn! I need to bulk up on relevant technicals, to ensure I am representing
 the company to the best of my ability, and increasing our overall velocity. If
 you're not growing, you're dying!
 
-Ditto the next 3 months, plus refreshing my consulting chops. Been a corpoate
+Ditto the next 3 months, plus refreshing my consulting chops. Been a corporate
 guy for too long!
 
 #### What do you need from your manager?
 
 Open communication and honesty at all times. If you are dealing with a problem
 and I can be of help, let me know. If I'm the problem, let me know. If I'm not
-the problem but I can have an impact on it, let me now. I should never be
+the problem but I can have an impact on it, let me know. I should never be
 surprised about where I stand with you, my team or my company.
 
 [Stole this verbatim from [Gary Foster](https://github.com/gfoster/README/blob/master/README.md),
