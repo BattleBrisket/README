@@ -115,7 +115,7 @@ lot of points in my book. We never stop learning, and no one can know it all.
 Talking through an area of weakness gives us all a chance to grow and improve.
 - **Tell me when/how I can do better** - I am *far* from perfect, and rely on
 your feedback to improve. Perhaps contrary to usual instincts, I freely give
-away brownie points whenever anyone finds me lacking, and then finds the guts to
+away brownie points whenever anyone finds me lacking, and then has the guts to
 tell me about it.
 
 
@@ -133,3 +133,6 @@ When you're cruising along, my interference is only going to hinder your ability
 to deliver awesome results. You're a competent, capable human, and don't need
 anyone watching over your shoulder. I'd much rather sit on the sidelines, cheer
 you on, and celebrate your victories.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEzODY5MjI1MTVdfQ==
+-->
