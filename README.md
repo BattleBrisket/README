@@ -4,7 +4,7 @@ This is not a contract, a personality test, or a substitute for getting to know 
 
 It is a shortcut. If we are going to work together, this should give you a useful head start on how I think, what I value, how I communicate, and where I am likely to be helpful or annoying.
 
-Please treat it as a conversation starter, not sacred text. If something here does not match your experience of working with me, I would rather hear that than preserve the illusion that I have myself perfectly figured out.
+Please treat it as a conversation starter, not sacred text. If something here does not match your experience of working with me, I would rather hear that than preserve the illusion that I have myself perfectly figured out (and then I can update this file again).
 
 ## The short version
 
@@ -64,15 +64,15 @@ When you are doing good work, I will not insert myself just to look involved. I 
 
 ## What I expect from you
 
-Be honest.
+Be honest. If we cannot trust each other, we have nothing. Everything is an extension of trust.
 
-Own your work.
+Take ownership. I take a very hands-off approach because you are a competent professional who does not need a babysitter. I will give you room to operate, and expect you to keep me informed, ask for help when needed, and own the result.
 
-Ask for help before silence turns into surprise.
+Do not wait until a problem is fully formed before raising it. I would rather know early, while we still have options.
 
-Say “I do not know” when you do not know. That is not weakness. That is how adults keep bad assumptions from turning into bad decisions.
+Say "I do not know" when you do not know. That is not weakness, but how we keep bad assumptions from turning into bad decisions.
 
-Support your teammates. Offer help, share context, and do not hoard knowledge as job security.
+Support your teammates. Offer help, raise concerns when you see something worth discussing, and share your hard-earned wisdom.
 
 Tell me how I can do better. You will earn a lot of trust with me by pointing out something I missed, especially if it helps the team make a better decision.
 
@@ -84,23 +84,25 @@ For sensitive or corrective feedback, I prefer a real conversation: in person, v
 
 You do not need to package feedback perfectly for me. Clear is better than polished.
 
-I will ask you early on how you prefer to receive feedback, and I will do my best to meet you there. If I am missing the mark, please tell me. I would rather adjust with better context than guess.
+I will ask you early on how you prefer to receive feedback, and I will do my best to meet you there. If I am missing the mark, please tell me. I would rather adjust with better context.
 
 ## Watchouts
 
-These are my rough edges: the places where my instincts are well-intentioned, but can still get in the way if I am not paying attention.
+(*These are my rough edges: the places where my instincts are well-intentioned, but can still get in the way if I am not paying attention.*)
 
-I can get impatient with problems that seem obvious but remain unfixed. Usually that impatience is pointed at the system, not the people inside it, but I know it can still leak into my tone.
+I can get impatient with problems that seem obvious but remain unfixed. That impatience is pointed at the system, not the people inside it, but I know it can still leak into my tone if I am not careful.
 
-I sometimes move quickly from problem identification to solution mode. If you need me to slow down, ask more questions, or just listen before trying to fix the thing, say so.
+I sometimes move quickly from problem identification to solution mode. That can be useful, but people and teams sometimes need more time, context, and/or trust before a solution is ready to take shape.  If you need me to slow down, ask more questions, or just listen before trying to fix the thing, say so.
 
-I value directness, but I know not everyone processes conflict or disagreement the same way. I will try to meet you where you are. I will also ask you to meet me partway by not making me guess what you really think.
+I value directness, but I know not everyone processes disagreement, pressure, or change the same way. I will try to meet you where you are. I will also ask you to meet me partway by helping me understand what you really think (i.e. don't make me guess, I'll probably get it wrong anyway).
 
 ## What I am working on
 
-I am always trying to get better at balancing speed with patience.
+I am working on being as deliberate on the interpersonal side of leadership as I try to be in my technical work.
 
-My instinct is to find the friction, name it, and start removing it. That is useful, but not every system can or should be changed at the same speed. I am working on being deliberate about when to push, when to listen longer, and when the right move is to build trust before trying to fix the machine.
+My instinct is to understand the problem, identify the constraint, and start addressing it. That instinct is useful, but good leadership is not just about seeing the path. It is also about understanding the people, history, risk, trust, and context around the work.
+
+I am trying to get better at knowing when to move vs when to listen longer, and when the right next step is not a decision, but better shared understanding.
 
 I am also trying to stay close enough to the technical details that I can make good decisions, while giving the people closest to the work enough room to own the solution.
 
@@ -108,4 +110,4 @@ I am also trying to stay close enough to the technical details that I can make g
 
 I like direct people, practical problem-solving, useful sarcasm, and teams that can take the work seriously without taking themselves too seriously.
 
-I’m a lifelong video gamer. If you’re looking for something to connect on, this is an easy in with me.
+I’m a lifelong video gamer. If you’re looking for something to connect on, this is an easy in with me. Chrono Trigger is the greatest ever made.
