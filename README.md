@@ -14,21 +14,29 @@ My default is to push authority as close to the work as possible. I do not belie
 
 Some of the best improvements start with a sentence like: “I know we have always done it this way, but...”
 
-## What I value
+## What I value, and what I ask in return
 
 ### Trust
 
-Trust is the foundation for everything else. I do not need every conversation to be polished, and I do not need every message to be perfectly phrased. I do need to know what is true.
+Trust is the foundation for everything else. If we cannot trust each other, we have nothing.
+
+I do not need every conversation to be polished, and I do not need every message to be perfectly phrased. I do need to know what is true.
 
 Tell me when something is blocked. Tell me when you disagree. Tell me when I am missing context. Tell me when I am the problem. I will respect that far more than silence, avoidance, or surprise.
+
+Say “I do not know” when you do not know. That is not weakness; it is how we keep bad assumptions from turning into bad decisions.
 
 ### Ownership
 
 I assume competence by default. I do not want to hover over your work, and I do not want you to feel like you need permission for every reasonable decision.
 
+I take a hands-off approach because I trust competent people to do good work without being babysat. I will give you room to operate, and I expect you to keep me informed, ask for help when needed, and own the result.
+
 With autonomy comes responsibility. Own the work, own the communication around the work, and own the consequences when something does not go as expected.
 
 When things go right, I will make sure the credit stays as close to the work as the responsibility does.
+
+Do not wait until a problem is fully formed before raising it. I would rather know early, while we still have options.
 
 ### Improvement
 
@@ -36,7 +44,13 @@ I have a low tolerance for broken systems that everyone has quietly agreed to wo
 
 I am not allergic to process. Good process prevents known failure modes. Bad process often survives long after the original reason for it disappeared.
 
-If you see a better way, I want to hear it.
+If you see a better way, I want to hear it. If you see something I missed, I want to hear that too. Good ideas should be tested, not protected by title, tenure, or who said them first.
+
+### Teamwork
+
+Support your teammates. Offer help, raise concerns when you see something worth discussing, and share your hard-earned wisdom.
+
+The best teams I have worked with were not made up of people quietly staying in their lanes. They were made up of people who cared enough to notice when someone else needed context, backup, challenge, or a second set of eyes.
 
 ## How I operate
 
@@ -62,21 +76,9 @@ I will protect your focus when I can. I will remove obstacles when I can. I will
 
 When you are doing good work, I will not insert myself just to look involved. I would rather cheer from the sidelines than create process theater.
 
-## What I expect from you
-
-Be honest. If we cannot trust each other, we have nothing. Everything is an extension of trust.
-
-Take ownership. I take a very hands-off approach because you are a competent professional who does not need a babysitter. I will give you room to operate, and expect you to keep me informed, ask for help when needed, and own the result.
-
-Do not wait until a problem is fully formed before raising it. I would rather know early, while we still have options.
-
-Say "I do not know" when you do not know. That is not weakness, but how we keep bad assumptions from turning into bad decisions.
-
-Support your teammates. Offer help, raise concerns when you see something worth discussing, and share your hard-earned wisdom.
-
-Tell me how I can do better. You will earn a lot of trust with me by pointing out something I missed, especially if it helps the team make a better decision.
-
 ## Feedback
+
+Never hesitate to tell me how I can do better.
 
 I prefer feedback close to the event. The longer we wait, the more the context decays and the easier it becomes to turn a specific issue into a vague pattern.
 
