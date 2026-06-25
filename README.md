@@ -1,6 +1,6 @@
 # Leadership README - How I work
 
-This is intended to be an early shortcut for getting to know each other. If we are going to work together, this should give you a useful head start on how I think, what I value, how I communicate, and where I am likely to be helpful or annoying.
+This is intended to be an early shortcut for working together. It should give you a useful head start on how I think, what I value, how I communicate, and where I am likely to be helpful or annoying.
 
 Please treat it as a conversation starter, not sacred text. If something here does not match your experience of working with me, I would rather hear that than preserve the illusion that I have myself perfectly figured out (and then I can update this file again).
 
