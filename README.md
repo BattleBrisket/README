@@ -1,138 +1,111 @@
-# My leadership readme/operating manual
+# Leadership README - How I work
 
-## My Leadership Philosophy
+This is not a contract, a personality test, or a substitute for getting to know each other.
 
-I believe people deliver their best work when empowered with the **freedom**
-and **authority** to get the job done. I've learned that most people aren't even
-fully aware of their own potential, because the company structures around them
-stifle potential output. I consequently look to maximize the area that my team
-has to move around by minimizing restrictions placed on them.
+It is a shortcut. If we are going to work together, this should give you a useful head start on how I think, what I value, how I communicate, and where I am likely to be helpful or annoying.
 
-Some of the greatest ideas follow the comment, "We've never done things like
-that around here..."
+Please treat it as a conversation starter, not sacred text. If something here does not match your experience of working with me, I would rather hear that than preserve the illusion that I have myself perfectly figured out.
 
-## My answers to [first 1:1 questions](http://larahogan.me/blog/first-one-on-one-questions/ "What to ask in the first 1:1")
+## The short version
 
+I believe capable people do their best work when they have context, trust, clear ownership, and enough room to solve problems without being over-managed.
 
-#### What makes you grumpy?
+My default is to push authority as close to the work as possible. I do not believe management exists to supervise every decision. I believe it exists to create clarity, remove friction, protect focus, raise standards, and help people grow into more scope than they had before.
 
-Identifying the solution to a problem and not being permitted to go
-fix it (assume it's a worthwhile endeavor, and/or I don't have something
-better to do with my time). These sorts of problems are usually a symptom of
-crusty, outdated policy: what started out as a useful guideline to avoid a known
-pitfall has become an obstruction over time.
+Some of the best improvements start with a sentence like: “I know we have always done it this way, but...”
 
-Conversely, fixing these issues makes me feel like I'm contributing, moving the
-team/product/company forward.
+## What I value
 
-#### How will I know when you’re grumpy?
+### Trust
 
-I'll usually say so. My wife tells me I wear it on my sleeve.
+Trust is the foundation for everything else. I do not need every conversation to be polished, and I do not need every message to be perfectly phrased. I do need to know what is true.
 
-#### How can I help you when you’re grumpy?
+Tell me when something is blocked. Tell me when you disagree. Tell me when I am missing context. Tell me when I am the problem. I will respect that far more than silence, avoidance, or surprise.
 
-Tell me you see it, ask what's up, and then just help me talk through it. By
-that time, the problem has been rolling around in my head, building up. I tend
-to assume the worst, and presenting the issue to another person usually brings
-me back to equilibrium.
+### Ownership
 
-#### How do you like feedback - slack, email, in person, etc?
+I assume competence by default. I do not want to hover over your work, and I do not want you to feel like you need permission for every reasonable decision.
 
-In person, video chat, phone, in that order. Human interaction loses so much
-nuance over email and chat, which is extremely important when providing
-constructive criticism.
+With autonomy comes responsibility. Own the work, own the communication around the work, and own the consequences when something does not go as expected.
 
-#### How do you like feedback - routine like in 1:1s, or as-it-happens?
+When things go right, I will make sure the credit stays as close to the work as the responsibility does.
 
-As it happens. The closer to the problem, the better I can scope the problem to
-its source.
+### Improvement
 
-#### How do you prefer to receive recognition? (public or private)
+I have a low tolerance for broken systems that everyone has quietly agreed to work around.
 
-Private is generally sufficient, but recognition of suitable "weight" should be
-public. Occasionally letting everyone when you've accomplished something allows
-the team to celebrate with you, spreading the good vibes around.
+I am not allergic to process. Good process prevents known failure modes. Bad process often survives long after the original reason for it disappeared.
 
-I have the same mentality when handing out recognition to my team.
+If you see a better way, I want to hear it.
 
-#### What makes 1:1s the most valuable for you?
+## How I operate
 
-Building the relationship, which in turn improves communication effectiveness.
+I like decisions to be made at the lowest responsible level by the people closest to the work.
 
-#### What are your goals for this year? And for the next 3 months?
+When a decision is reversible, I prefer momentum over prolonged debate. Make the call, learn from it, and adjust. Think agile code development, applied to business decisions.
 
-I've joined a team of true experts in the field, and I feel like I have a lot
-to learn! I need to bulk up on relevant technicals, to ensure I am representing
-the company to the best of my ability, and increasing our overall velocity. If
-you're not growing, you're dying!
+When a decision is hard to reverse, has a large blast radius, or creates long-term obligations, I want more rigor: clearer options, explicit tradeoffs, and enough disagreement in the room to know we are not sleepwalking into a bad choice.
 
-Ditto the next 3 months, plus refreshing my consulting chops. Been a corporate
-guy for too long!
+I am comfortable with disagreement. When I present an idea to you or the team, the first thing I will usually ask is for you to poke holes in it. What am I missing? Where did I go off course? What breaks if we do this?
 
-#### What do you need from your manager?
+I expect that same standard to run both ways. Good ideas should be tested, not protected by title, tenure, or who said them first. I am much less comfortable with vague consensus where nobody says what they actually think.
 
-Open communication and honesty at all times. If you are dealing with a problem
-and I can be of help, let me know. If I'm the problem, let me know. If I'm not
-the problem but I can have an impact on it, let me know. I should never be
-surprised about where I stand with you, my team or my company.
+## What you can expect from me
 
-[Stole this verbatim from [Gary Foster](https://github.com/gfoster/README/blob/master/README.md),
-because I couldn't see a way to improve upon it.]
+I will give you context, not just assignments.
 
-#### From your team?
+I will try to be clear about what matters, what constraints are real, and where you have room to make the call.
 
-Zero hesitation come to me with a problem or question. I can't help you be
-awesome if I don't know when something's up.
+I will not intentionally leave you guessing about where you stand. If something is off track, I will tell you early enough that we can do something useful about it.
 
-Also an equal lack of hesitation to support your teammates. Offer to help,
-poke them when you think there's a problem, and share your war-torn wisdom.
+I will protect your focus when I can. I will remove obstacles when I can. I will escalate when escalation is useful. I will also tell you when something is simply hard, messy, or constrained by reality.
 
-#### From your peers? (outside the team)
+When you are doing good work, I will not insert myself just to look involved. I would rather cheer from the sidelines than create process theater.
 
-Willingness to share your knowledge and experience. Our team has a very diverse
-background, and none of us knows it all. Sharing your wisdom makes the
-individual and the company better for it.
+## What I expect from you
 
-#### What’s your favourite baked good?
+Be honest.
 
-Donuts. Preferably with sprinkles, filled with creme, covered in icing, or any
-other crazy, deliciously awful concoction.
+Own your work.
 
+Ask for help before silence turns into surprise.
 
-## My expectations of folks who report to me
+Say “I do not know” when you do not know. That is not weakness. That is how adults keep bad assumptions from turning into bad decisions.
 
-- **Be honest, in all ways** - If we cannot trust each other, we have nothing.
-Everything below is an extension of trust.
-- **Own your work** - I take a very hands-off approach to managing your daily
-output -- you're a competent professional, and don't need a babysitter -- but
-with great power comes great responsibility.
-- **Look for improvements** - Even if you don't execute on them, identifying
-areas that we are coming up short and then offering ways to make it better is
-literally the _only_ way any company improves. This includes feedback on my
-management ability.
-- **Be quick to say "I don't know."** - Admitting ignorance on a subject earns a
-lot of points in my book. We never stop learning, and no one can know it all.
-Talking through an area of weakness gives us all a chance to grow and improve.
-- **Tell me when/how I can do better** - I am *far* from perfect, and rely on
-your feedback to improve. Perhaps contrary to usual instincts, I freely give
-away brownie points whenever anyone finds me lacking, and then has the guts to
-tell me about it.
+Support your teammates. Offer help, share context, and do not hoard knowledge as job security.
 
+Tell me how I can do better. You will earn a lot of trust with me by pointing out something I missed, especially if it helps the team make a better decision.
 
-## What you can expect of me as your manager
+## Feedback
 
-**TL;DR** - My goal is to support you to the fullest extent you desire and
-require, then get the hell out of your way.
+I prefer feedback close to the event. The longer we wait, the more the context decays and the easier it becomes to turn a specific issue into a vague pattern.
 
-It's pithy, but there's a fair bit at play in there. I'm always available
-any time you have a problem or question. Never hesitate to come talk to me, we
-will work through it. I'll grant you the same courtesy in return if I see a
-problem: you'll know immediately, and have my unwavering support in fixing it.
+For sensitive or corrective feedback, I prefer a real conversation: in person, video, or phone. Written feedback is fine for simple things, but tone and nuance matter when the subject is difficult.
 
-When you're cruising along, my interference is only going to hinder your ability
-to deliver awesome results. You're a competent, capable human, and don't need
-anyone watching over your shoulder. I'd much rather sit on the sidelines, cheer
-you on, and celebrate your victories.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODY5MjI1MTVdfQ==
--->
+You do not need to package feedback perfectly for me. Clear is better than polished.
+
+I will ask you early on how you prefer to receive feedback, and I will do my best to meet you there. If I am missing the mark, please tell me. I would rather adjust with better context than guess.
+
+## Watchouts
+
+These are my rough edges: the places where my instincts are well-intentioned, but can still get in the way if I am not paying attention.
+
+I can get impatient with problems that seem obvious but remain unfixed. Usually that impatience is pointed at the system, not the people inside it, but I know it can still leak into my tone.
+
+I sometimes move quickly from problem identification to solution mode. If you need me to slow down, ask more questions, or just listen before trying to fix the thing, say so.
+
+I value directness, but I know not everyone processes conflict or disagreement the same way. I will try to meet you where you are. I will also ask you to meet me partway by not making me guess what you really think.
+
+## What I am working on
+
+I am always trying to get better at balancing speed with patience.
+
+My instinct is to find the friction, name it, and start removing it. That is useful, but not every system can or should be changed at the same speed. I am working on being deliberate about when to push, when to listen longer, and when the right move is to build trust before trying to fix the machine.
+
+I am also trying to stay close enough to the technical details that I can make good decisions, while giving the people closest to the work enough room to own the solution.
+
+## Human stuff
+
+I like direct people, practical problem-solving, useful sarcasm, and teams that can take the work seriously without taking themselves too seriously.
+
+I’m a lifelong video gamer. If you’re looking for something to connect on, this is an easy in with me.
